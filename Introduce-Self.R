@@ -1,1 +1,1 @@
-print("My name is Andrew Choa and I like Tokusatsu.")
+print("My name is Andrew Choa and I like Tokusatsu forever.")
